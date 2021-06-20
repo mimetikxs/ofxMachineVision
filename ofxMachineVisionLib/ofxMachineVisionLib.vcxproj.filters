@@ -21,9 +21,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\readme.md" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="..\src\ofxMachineVision.h">
       <Filter>src</Filter>
     </ClInclude>
